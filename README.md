@@ -50,7 +50,7 @@
     <h2>📦 Installation</h2>
     <ol>
       <li><strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/yourusername/AI-Agent-Assistant.git
+        <pre><code>git clone https://github.com/https://github.com/swarna-lohitt/Creating-AI-Assistants-with-OpenAI.git
 cd AI-Agent-Assistant</code></pre>
       </li>
       <li><strong>Install Required Libraries</strong>
@@ -85,11 +85,5 @@ set OPENAI_API_KEY='your_api_key_here'</code></pre>
       <li><strong>Enhancing decision-making:</strong> Researchers can quickly find relevant insights, improving focus on core research areas.</li>
     </ul>
   </div>
-
-  <div class="section">
-    <h2>🔧 Example Notebook</h2>
-    <p>To see the assistant in action, check the included <code>example.ipynb</code> Jupyter notebook, which demonstrates how to use this tool effectively.</p>
-  </div>
-
 </body>
 </html>
