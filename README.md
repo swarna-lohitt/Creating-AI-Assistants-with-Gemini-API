@@ -46,36 +46,6 @@
     </ul>
   </div>
 
-  <div class="section">
-    <h2>📦 Installation</h2>
-    <ol>
-      <li><strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/https://github.com/swarna-lohitt/Creating-AI-Assistants-with-OpenAI.git
-cd AI-Agent-Assistant</code></pre>
-      </li>
-      <li><strong>Install Required Libraries</strong>
-        <p>Run the following command to install necessary packages:</p>
-        <pre><code>pip install -r requirements.txt</code></pre>
-      </li>
-      <li><strong>Set Up API Key</strong>
-        <ul>
-          <li>Go to your OpenAI account and generate an API key.</li>
-          <li>Add your OpenAI API key as an environment variable:</li>
-        </ul>
-        <pre><code># Linux/macOS
-export OPENAI_API_KEY='your_api_key_here'
-
-# Windows
-set OPENAI_API_KEY='your_api_key_here'</code></pre>
-      </li>
-    </ol>
-  </div>
-
-  <div class="section">
-    <h2>🚀 Usage</h2>
-    <p>Run the assistant using the following command:</p>
-    <pre><code>python main.py</code></pre>
-  </div>
 
   <div class="section">
     <h2>💡 How This Project Helps</h2>
