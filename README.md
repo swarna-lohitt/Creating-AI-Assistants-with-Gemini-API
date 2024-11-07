@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>AI Agent Assistant Using OpenAI GPT-4</h1>
+  <h1>AI Assistant Using OpenAI GPT-4</h1>
 
   <div class="section">
     <h2>🚀 Project Overview</h2>
