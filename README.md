@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> AI Assistant Researcher </title>
 </head>
 <body>
 
-  <h1>Building an AI Agent Assistant with OpenAI GPT-4</h1>
+  <h1>Building an AI Assistant with OpenAI GPT-4</h1>
 
   <h2>Start</h2>
   <p>This project involves creating a GPT-4-powered AI assistant capable of searching, summarizing, and explaining research papers from <strong>arXiv</strong> with a focus on Artificial General Intelligence (AGI). The assistant is designed as a file search tool that can intelligently parse and present insights from academic literature.</p>
